@@ -1,0 +1,4 @@
+baseURL = "https://freedownloadbolton.vercel.app"
+languageCode = "en-us"
+title = "Free Download Wallpaper Windows"
+theme = "hugo-theme-minos"
